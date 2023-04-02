@@ -1,0 +1,15 @@
+                                                                        &lVersion 0.3&r
+
+         &d* &fRebranded game from OtherSMP to JustOneMoreSMP
+         &d* &fUpdated the title screen (so it shouldn't break as often when minimizing the game window)
+         &d* &fUpdated FancyMenu (may fix disappearing join button issue)
+         &d* &fUpdated Konkrete (dependency for FancyMenu)
+         &a+ &fAdded smp branding to window icon
+         &a+ &fAdded changelog button
+         &a+ &fAdded Fabrication Mod (Makes a bunch of small tweaks to the game)
+         &a+ &fAdded Additional Additions Mod (Adds a crossbow with a spyglass)
+         &a+ &fAdded Sound-Track Mod (Adds minecart jukeboxes and noteblocks) 
+         &a+ &fAdded Ears Mod (Adds custom ears, tail, wings, etc.)
+         &a+ &fAdded Copper Golem Mod (Adds copper golem and copper buttons)
+         &a+ &fAdded Carved Melons Mod (Adds carved melons and melon o'lanterns)
+         &c- &fRemoved old left over version of Terralith (v0.2 had two versions bundled)

@@ -1,0 +1,6 @@
+                                                                        &lVersion 0.2&r
+
+         &e• &fFirst version for initial smp members
+         &d* &fUpdated Terralith to version 2.05
+         &a+ &fAdded a message in-game informing the user of an update 
+         &c- &fRemoved Dev naming scheme from the game's title

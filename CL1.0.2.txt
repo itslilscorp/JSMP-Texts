@@ -1,0 +1,9 @@
+                                                                        &lVersion 1.0.2&r
+ 
+         &d* &fReworked Custom Title Screen System
+         &d* &fSlightly Tweaked Changelog Menus to be Less Painful to Update
+         &d* &fUpdated FancyMenu
+         &d* &fUpdated Konkrete (dependency for FancyMenu)
+         &a+ &fAdded Resclone (Replacing Load My Resources)
+         &a+ &fAdded Less Intensive Title Screen Mode
+         &c- &fRemoved Load My Resources (was used for custom menu)

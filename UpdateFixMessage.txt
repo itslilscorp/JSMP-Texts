@@ -1,0 +1,4 @@
+If you tried to update your pack but it still says the pack is outdated, this is the place to fix it.
+&cWarning: If you continue, your game will close and you will need to redownload the update.
+ 
+&fAre you sure you want to continue?
