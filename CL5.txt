@@ -1,5 +1,3 @@
-                                                                        &lVersion 1.0.2&r
- 
          &d* &fReworked Custom Title Screen System
          &d* &fSlightly Tweaked Changelog Menus to be Less Painful to Update
          &d* &fUpdated FancyMenu

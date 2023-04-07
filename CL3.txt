@@ -1,5 +1,3 @@
-                                                                        &lVersion 1.0&r
-
          &d* &fUpdated Fabric loader from 0.12.11 to 0.12.12
          &d* &fUpdated Iris from 1.1.3 to 1.2.0 (Adds shader settings)
          &d* &fUpdated Sodium from 0.4.0 alpha 5 to 0.4.0 alpha 6 (Dependency for Iris 1.2.0)

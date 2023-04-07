@@ -1,5 +1,3 @@
-                                                                        &lVersion 0.3&r
-
          &d* &fRebranded game from OtherSMP to JustOneMoreSMP
          &d* &fUpdated the title screen (so it shouldn't break as often when minimizing the game window)
          &d* &fUpdated FancyMenu (may fix disappearing join button issue)

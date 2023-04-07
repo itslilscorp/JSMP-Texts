@@ -1,5 +1,3 @@
-                                                                        &lVersion 1.1.1&r
- 
          &d* &fFixed Bugs with New Title Screen
          &d* &fModified Changelog to be MUCH Easier to Update (And More Snappy)
          &d* &fUpdated & Reconfigured DefaultOptions so it &oActually Works
